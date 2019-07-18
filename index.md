@@ -32,8 +32,8 @@ created with this tool are below.
 
 Example Isochrone Image:
 ![Isochrone](/images/Auckland-Thursday-alltime-comp.gif "Animated Isochrone of Auckland, NZ")
-This is an image of bus traffic (left) vs car traffic (right) of time taken on average to travel from the
-'centre' of Auckland city on Thursday to various parts of the region. The animation runs between 9am-5pm
+_This is an image of bus traffic (left) vs car traffic (right) of time taken on average to travel from the
+'centre' of Auckland city on Thursday to various parts of the region. The animation runs between 9am-5pm_
 
 A project report in the form of a poster is available [here](/pdfs/Traffic Network Resilience - Summer 
 Gold Poster.pdf). This poster was created to communicate the motivation and goals of the research to 
