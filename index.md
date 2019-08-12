@@ -1,7 +1,7 @@
 # Nau Mai
 ## Welcome
 
-Kia ora, ko Chris ahau, a ko ahau pumanawa rorohiko matai puhanga. 
+Kia ora, ko Chris ahau, a ko ahau kaipukaha pumanawa rorohiko. 
 
 My name is Chris, and I'm a software engineer. This is a personal GitHub page where I keep projects I've
 worked on that I'd like to share with the world.
