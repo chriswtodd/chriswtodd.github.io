@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Nau Mai
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/chriswtodd/chriswtodd.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kia ora, ko Chris ahau, a ko ahau pumanawa rorohiko matai puhanga. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Chris, and I'm a software engineer. This is a personal GitHub page where I keep projects I've
+worked on that I'd like to share with the world.
 
-### Markdown
+If you haven't already, see other projects of mine on [GitHub](https://github.com/chriswtodd/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## About Me
 
-```markdown
-Syntax highlighted code block
+I am a software engineer that lives in New Zealand.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+I have worked on a vast array of projects before, mainly Java and Electronics related. Below are some 
+of the projects I have participated in.
 
-1. Numbered
-2. List
+### Traffic Visualisation
+#### Network Resilience
 
-**Bold** and _Italic_ and `Code` text
+Traffic Visualisation has been an ongoing collaboration between VUW and Beca Group Ltd. There are many 
+goals of the research, one of these is to better quantify the performance of a transport network.
 
-[Link](url) and ![Image](src)
-```
+Network Resilience was a two part research project that investigated the performance of rural and urban 
+transport networks. I worked on mainly the urban tool, and contributed to the other project occassionally.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The urban tool creates a visualisation of [isochrones](https://wiki.openstreetmap.org/wiki/Isochrone) to 
+show the change in commuter travel time depending on time of day. An example of isochrones that can be 
+created with this tool are below.
 
-### Jekyll Themes
+Example Isochrone Image:
+![Isochrone](/images/Auckland-Thursday-alltime-comp.gif "Animated Isochrone of Auckland, NZ")
+This is an image of bus traffic (left) vs car traffic (right) of time taken on average to travel from the
+'centre' of Auckland city on Thursday to various parts of the region. The animation runs between 9am-5pm
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chriswtodd/chriswtodd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A project report in the form of a poster is available [here](/pdfs/Traffic Network Resilience - Summer 
+Gold Poster.pdf). This poster was created to communicate the motivation and goals of the research to 
+tertiary level students to generate interest in the projects.
 
-### Support or Contact
+## Contact me
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contact Chris:
+- [GitHub Pages](https://chriswtodd.github.io/)
+- [GitHub](https://github.com/chriswtodd/)
+- Email: <chriswilltodd@gmail.com>
