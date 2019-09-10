@@ -35,7 +35,7 @@ Example Isochrone Image:
 _This is an image of bus traffic (left) vs car traffic (right) of time taken on average to travel from the
 'centre' of Auckland city on Thursday to various parts of the region. The animation runs between 9am-5pm_
 
-A project report in the form of a poster is available [here](/pdfs/Traffic Network Resilience - Summer 
+**[A project report in the form of a poster is available here]**(/pdfs/Traffic Network Resilience - Summer 
 Gold Poster.pdf). This poster was created to communicate the motivation and goals of the research to 
 tertiary level students to generate interest in the projects.
 
@@ -48,7 +48,7 @@ at some of the results of the games that were played.
 I decided to focus on team performance for each game, for each year. Using the visualizations I designed,
 one can find interesting relationships between teams with similar patterns of play, performance in the tournament and more.
 
-You can find a live demo version hosted on GitLab pages [here](https://toddchri1.glp.ecs.vuw.ac.nz/information-visualisation---anz-championship/).
+**[You can find a live demo version hosted on GitLab pages here]**(https://toddchri1.glp.ecs.vuw.ac.nz/information-visualisation---anz-championship/).
 
 _Last updated 10/09/2019._
 
