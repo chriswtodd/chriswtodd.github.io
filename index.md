@@ -39,6 +39,17 @@ A project report in the form of a poster is available [here](/pdfs/Traffic Netwo
 Gold Poster.pdf). This poster was created to communicate the motivation and goals of the research to 
 tertiary level students to generate interest in the projects.
 
+### Information Visualization
+#### The ANZ Championship
+
+As a short university project, I created some visualizations using the D3.js library to take a deeper look
+at some of the results of the games that were played.
+
+I decided to focus on team performance for each game, for each year. Using the visualizations I designed,
+one can find interesting relationships between teams with similar patterns of play, performance in the tournament and more.
+
+You can find a live demo version hosted on GitLab pages [here](https://toddchri1.glp.ecs.vuw.ac.nz/information-visualisation---anz-championship/).
+
 ## Contact me
 
 Contact Chris:
