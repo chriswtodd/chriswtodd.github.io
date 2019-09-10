@@ -55,7 +55,7 @@ I decided to focus on team performance for each game, for each year. Using the v
 one can find interesting relationships between teams with similar patterns of play, performance in the tournament and more.
 
 Two of the Visualisations on this Page:
-![ANZ-Vis](/images/ANZ-Viz.png "Preview of the ANZ Championship Vis")
+![ANZ-Vis](/images/ANZ-Viz.jpg "Preview of the ANZ Championship Vis")
 _This is an example of the Dot Chart and Heat Map. The charts display teams on the x-axis, and a 
 performance metric on the y (eg points, acquired at a rate of 2 per win for the dot charts y-axis)._
 
@@ -71,7 +71,7 @@ hidden operations, and a lack of guidance for the user. We looked at how we coul
 lecturers to students. This project was a group project, undertaken with 5 other group members.
 
 The landing page:
-![Whiteboard](/images/White-vs-Black.png "Whiteboard landing")
+![Whiteboard](/images/White-vs-Black.jpg "Whiteboard landing")
 _This is the Whiteboard landing page (left, our project), compared with the interface we were trying to improve on (right)._
 
 We used Jakob Nielsens Discount Usability Engineer concepts to guide the development of features neccessary for revision. This 
