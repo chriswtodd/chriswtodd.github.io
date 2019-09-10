@@ -52,6 +52,18 @@ one can find interesting relationships between teams with similar patterns of pl
 
 _Last updated 10/09/2019._
 
+### Creating Better Interfaces
+#### Designing a Learning Management System
+
+The learning manangement systems that we use at university are rather unfriendly to the user. Several repeat buttons, confusing and 
+hidden operations, and a lack of guidance for the user. We looked at how we could improve the experience of all users from
+lecturers to students. This project was a group project, undertaken with 5 other group members.
+
+We used Jakob Nielsens Discount Usability Engineer concepts to guide the development of features neccessary for revision. This 
+included development of personas, use cases and usability tests with heuristics.
+
+[You can find a live demo version hosted on Netlify here](https://whiteboard.netlify.com/index.html).
+
 ## Contact me
 
 Contact Chris:
