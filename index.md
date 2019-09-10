@@ -23,6 +23,8 @@ of the projects I have participated in.
 |[Visualizing Sports Data](#sports-data-visualization)               |
 |[Improving upon existing interfaces](#creating-better-interfaces)   |
 
+These are the better of the formal projects so far, but I also have a few personal projects, such as an AI snake, on GitHub.
+
 ### Traffic Visualization
 #### Network Resilience
 
