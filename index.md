@@ -63,7 +63,7 @@ performance metric on the y (eg points, acquired at a rate of 2 per win for the 
 
 [You can find a live demo version hosted on GitLab pages here](https://toddchri1.glp.ecs.vuw.ac.nz/information-visualisation---anz-championship/).
 
-_Last updated 10/09/2019._
+_Last updated 11/09/2019._
 
 ### Creating Better Interfaces
 #### Designing a Learning Management System
