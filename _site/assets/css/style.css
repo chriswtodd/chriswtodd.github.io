@@ -227,3 +227,14 @@ h5 { color: #323232; }
 h6 { color: #323232; }
 
 p { color: #323232; }
+
+svg { width: 960px; height: 300px; margin: 0 auto; font: 2em sans-serif; }
+
+.Logo { background-color: #222; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: calc(10px + 5vmin); display: flex; position: relative; box-shadow: -10px -10px 10px #222; }
+
+.Logo_text__stroke { stroke: #2079c7; fill: none; stroke-dasharray: 100%; stroke-dashoffset: 100%; transform: translate(1%, 50%); animation: draw 10s linear 0s 1 forwards; }
+
+@keyframes draw { to { stroke-dashoffset: 0%; } }
+.Logo_text__fill { stroke: transparent; fill: transparent; transform: translate(1%, 50%); animation: fade 2s linear 2s 1 forwards; }
+
+@keyframes fade { to { fill: #2079c7; } }
