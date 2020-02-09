@@ -19,8 +19,7 @@
 {"url":"https://github.com/chriswtodd/","headline":"Nau Mai","description":"This is where I keep some of my bigger projects to share with the world.","name":"Chris Todd’s Github","@type":"WebSite","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <!-- <link rel="stylesheet" href="/assets/css/style.css?v=6cbf061893a83acc792031c1c95228e3684601a4"> -->
-    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/style.css?v=6cbf061893a83acc792031c1c95228e3684601a4">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -31,9 +30,14 @@
         <!-- <h1><a href="http://localhost:4000/">Chris Todd's Github</a></h1> -->
         <svg>
           <a href="https://github.com/chriswtodd/">
-  
-            <text id="fill" class="Logo_text__fill">Chris Todd's Github</text>
-            <text id="outline" class="Logo_text__stroke">Chris Todd's Github</text>
+            <symbol id="s-header-text">
+              <text text-anchor="center" x="1%" y="50%" font-size="2em">Chris Todd's Github</text>
+            </symbol>
+        
+            <g>
+              <use xlink:href="#s-header-text" class="logo"></use>
+              <use xlink:href="#s-header-text" class="logo"></use>
+            </g>
         
           </a>
         </svg>
