@@ -118,6 +118,9 @@
                 </thead>
                 <tbody>
                     <tr>
+                        <td><a href="#BEVFERLE">BEVFERLE: The Bus Emissions Visualisation Redesign</a></td>
+                    </tr>
+                    <tr>
                         <td><a href="#BEVis">Bus Emissions Visualisation</a></td>
                     </tr>
                     <tr>
@@ -133,6 +136,48 @@
             </table>
         </div>
             </div>
+
+            <div class="title-container">
+                    <h1 class="title" id="bevferle-visualisation">BEVFERLE: The Bus Emissions Visualisation Redesign</h1>
+                    <h2 class="subtitle" id="bevferle-visualisation-2">A React and Redux lightweight implementation of my research project</h2>
+                </div>
+    
+                <div class="step-container">
+                    <div class="column-width">
+                        <p> Coming to the end of my time with the BEVis project, I realised that the design of the codebase was limiting my
+                            feature development. In order to rectify this, I planned a transition to React and Redux to reduce the complexity
+                            of the code, and enable refactoring and reuse of more of the code developed for the project.
+                        </p>
+    
+                        <p> BEVFERLE is the product of ~40 hours development and planning time. BEVFERLE uses React components on the front end,
+                            Redux to handle state, Python with Flask for a backend API that can provide data from MongoAtlas, and D3 to create 
+                            visualisations. 
+                        </p>
+    
+                        <p> BEVFERLE is an ongoing project of mine, and the codebase is available on my Gituhb 
+                            (<a href="https://github.com/chriswtodd/BusEmissionsVis/">BEVFERLE Main</a>). Another advantage to this refactor is
+                            the ability to reuse code, such as the 
+                            <a href="https://observablehq.com/@chriswtodd/stream-graph-implementation-with-javascript-mixins">pure D3 implementations of the stream graph</a>.
+                        </p>
+                        <p>
+                            The current version of this tool is hosted on Heroku (my favourite PaaS), with a MongoAtlas Database storing the data. 
+                            <a href="https://bevferle.herokuapp.com/">Link to Heroku</a> <p><i><strong>Note:</strong> Heroku is slow to load when 
+                                first connecting as it very kindly sleeps apps for me when there is no active connection, saving me $$$ </i>
+                        </p>    
+                    </div>
+    
+                    <div class="step-image">
+                        <img src="/images/stream_BEVFERLE.png" alt="Heatmap of emissions"
+                            title="Heatmap March 2019 - BEVis" />
+                        <p>BEVFERLE's main screan once loaded. Showing filters on the left side menu, and a stream graph of emissions related to bus
+                            engine class.
+                        </p>
+                        <p>The graph underneath is referred to as a context by Mike Bostock, creator of D3. It is like an overview 
+                           that is used to zoom, brush and pan the graph above. This comes from the information visualisation concept of 
+                           <a href="https://infovis-wiki.net/wiki/Focus-plus-Context">Focus+Context</a>.
+                        </p>
+                    </div>
+                </div>
 
             <div class="title-container">
                     <h1 class="title" id="traffic-visualisation">Bus Emissions Visualisation</h1>
@@ -163,8 +208,7 @@
                             </ol>
 
                         <p>
-                            The current version of this tool is hosted on heroku, with a MongoAtlas Database storing the data. The main tool is 
-                            linked at the top of the page. 
+                            The current version of this tool is hosted on heroku, with a MongoAtlas Database storing the data.
                             <a href="https://warm-temple-67996.herokuapp.com/">Link to Heroku</a> 
                         </p>    
                     </div>
